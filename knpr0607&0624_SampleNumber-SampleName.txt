@@ -1,0 +1,54 @@
+#knpr06072021
+1. secretome_A514+E_1
+4. secretome_A514+Dye+E_1
+5. secretome_A514+Dye+E_2
+6. FreeCellLysate_A514_1
+7. FreeCellLysate_A514_2
+8. FreeCellLysate_A514+Dye_1
+10. FreeCellLysate_A514+Dye+E_2
+#knpr06242021
+2. secretome_A514+Dye_1
+3. secretome_A514+Dye_2
+9. FreeCellLysate_A514+Dye_2
+11. secretome_A514_4
+16. FreeCellLysate_A514_4
+23. EllectrodeCellLysate_A514+Dye+E_3
+one. FreeCellLysate_A514+E_1
+two. secretome_A514+E_2
+three. FreeCellLysate_A514+Dye+E_1
+
+------------------------------------------
+Organized:
+Group1_Secretome                     file name in HPRC                        
+11. secretome_A514_4                 S_A514_1
+26. secretome_A514_7                 S_A514_2
+
+1. secretome_A514+E_1                S_A514+E_1
+two. secretome_A514+E_2              S_A514+E_2
+
+2. secretome_A514+Dye_1              S_A514+D_1
+3. secretome_A514+Dye_2              S_A514+D_2
+
+4. secretome_A514+Dye+E_1            S_A514+D+E_1
+5. secretome_A514+Dye+E_2            S_A514+D+E_2
+
+Group2_Free cell lysate
+6. FreeCellLysate_A514_1             FCnS_A514_1
+7. FreeCellLysate_A514_2             FCnS_A514_2
+16. FreeCellLysate_A514_4            FCnS_A514_4
+
+one. FreeCellLysate_A514+E_1         FCnS_A514+E_1
+17.  FreeCellLysate_A514+E_1         FCnS_A514+E_2
+ 
+8. FreeCellLysate_A514+Dye_1         FCnS_A514+D_1
+9. FreeCellLysate_A514+Dye_2         FCnS_A514+D_2
+
+three. FreeCellLysate_A514+Dye+E_1   FCnS_A514+D+E_1
+10. FreeCellLysate_A514+Dye+E_2      FCnS_A514+D+E_2
+
+Group3_Electrode cell lysate         
+
+23. EllectrodeCellLysate_A514+Dye+E_3  ECnS_A514+E_1
+21. EllectrodeCellLysate_A514+Dye+E_1  ECnS_A514+E_2
+
+
