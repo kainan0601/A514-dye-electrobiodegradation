@@ -1,0 +1,20 @@
+INFO: CPU: tlogin-0501.cluster
+INFO: Crux version: 4.0-b854e9b-2021-06-01
+INFO: Sun Jul 18 23:48:58 CDT 2021
+COMMAND LINE: /scratch/user/kainan/software/crux/crux-4.0.Linux.x86_64/bin/crux spectral-counts /scratch/user/kainan/data_dye/analysis_20210713_allsqtfromXH/percolator/8.new/percolator.target.psms.txt --output-dir ./count --measure RAW --protein-database /scratch/user/kainan/data_dye/db/database_A514_NoReNoStop.fasta --overwrite T
+INFO: Beginning spectral-counts.
+INFO: Reached protein 1000
+INFO: Reached protein 2000
+INFO: Reached protein 3000
+INFO: Reached protein 4000
+INFO: Reached protein 5000
+INFO: Reached protein 6000
+INFO: Total proteins found: 6457
+INFO: Assigning index 0 to /scratch/user/kainan/data_dye/analysis_20210713_allsqtfromXH/percolator/8.new/percolator.target.psms.txt.
+INFO: Number of matches:1890077
+INFO: Number of matches passed the threshold 88150
+INFO: Number of peptides 8474
+INFO: Number of proteins 1684
+INFO: Elapsed time: 32.4 s
+INFO: Finished crux spectral-counts.
+INFO: Return Code:0
